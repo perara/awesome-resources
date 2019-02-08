@@ -8,3 +8,4 @@ https://github.com/openai/baselines
 https://github.com/ray-project/ray
 https://medium.com/@vermashresth/a-primer-on-deep-reinforcement-learning-frameworks-part-1-6c9ab6a0f555
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md
+https://spinningup.openai.com/en/latest/algorithms/ppo.html
